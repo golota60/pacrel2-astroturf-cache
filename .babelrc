@@ -3,10 +3,5 @@
     ["astroturf/plugin", {
       "extension": ".module.css"
     }]
-  ],
-  "presets": [
-    ["@babel/preset-react", {
-      "runtime": "automatic"
-    }]
   ]
 }
