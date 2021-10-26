@@ -7,8 +7,8 @@
   "dependencies": {
     "@babel/core": "^7.12.9",
     "astroturf": "^0.10.5",
-    "parcel": "^2.0.0-nightly.462",
-    "postcss": "^8.0.0",
+    "parcel": "^2.0.0",
+    "postcss": "^8.2.1",
     "postcss-modules": "^3.2.2"
   }
 }
